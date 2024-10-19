@@ -11,6 +11,7 @@ uh cat based neofetch very early in development, some stuff broken idk its also 
 - config no work :(
 - no linter
 - untested on linux and winodws 
+- host is unknown
 
 ### Args
 ```
