@@ -6,6 +6,7 @@ uh cat based neofetch very early in development, some stuff broken idk its also 
 - Storage is stupid, only shows latest drive (i used a for loop dont judge)
 - Terminal Colors are wack
 - config no work :(
+- no linter
 
 ### building/running
 ```bash
