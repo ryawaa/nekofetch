@@ -194,7 +194,7 @@ fn build_info_lines(
 
     let entries = vec![
         ("os", "OS"),
-        ("host", "Host"),
+        ("hostname", "Host"),
         ("kernel", "Kernel"),
         ("uptime", "Uptime"),
         ("packages", "Packages"),
